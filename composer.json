@@ -8,7 +8,7 @@
   "autoload": {
     "psr-0": {
       "LiveChat\\Tests": "tests/",
-      "LiveChat": "lib/LiveChat/"
+      "LiveChat": "lib/"
     }
   },
   "minimum-stability": "stable"
