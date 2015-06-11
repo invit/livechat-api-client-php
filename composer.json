@@ -1,0 +1,15 @@
+{
+  "name": "invit/livechat-api-client-sdk",
+  "description": "The LiveChat API SDK provides methods for all API functions.",
+  "require-dev": {
+    "php": ">=5.4.0",
+    "phpunit/phpunit": "~4.6"
+  },
+  "autoload": {
+    "psr-0": {
+      "LiveChat\\Tests": "tests/",
+      "LiveChat": "lib/LiveChat/"
+    }
+  },
+  "minimum-stability": "stable"
+}
