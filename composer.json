@@ -1,5 +1,5 @@
 {
-  "name": "invit/livechat-api-client-sdk",
+  "name": "invit/livechat-api-client-php",
   "description": "The LiveChat API SDK provides methods for all API functions.",
   "require-dev": {
     "php": ">=5.4.0",
